@@ -38,6 +38,22 @@ ul.nav {
 	color: white;
 }
 
+.modal-content iframe {
+	margin-top: 15px;
+	margin-bottom: 10px;
+}
+
+.modal-content .close {
+	position: absolute;
+	right: 10px;
+	top: 5px;
+	font-size: 30px;
+	background-color: white;
+	opacity: 1;
+	border-radius: 24px;
+	width: 30px;
+}
+
 .btn-lg {
 	font-size: 36px
 }
