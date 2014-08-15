@@ -38,6 +38,11 @@ ul.nav {
 	color: white;
 }
 
+.jumbotron .form-control {
+	height: 69px;
+	font-size: 36px;
+}
+
 .modal-content iframe {
 	margin-top: 15px;
 	margin-bottom: 10px;
@@ -52,6 +57,14 @@ ul.nav {
 	opacity: 1;
 	border-radius: 24px;
 	width: 30px;
+}
+
+.modal-dialog {
+	position: absolute;
+	left: 50%;
+	margin-left: -300px;
+	top: 50%;
+	margin-top: -173px;
 }
 
 .btn-lg {
